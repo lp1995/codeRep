@@ -11,6 +11,13 @@ public class Code {
 
 	public ListNode deleteDuplicates(ListNode head) {
         // write your code here
+		ListNode h = head;
+		ListNode last=head;
+		while(h!=null&&
+				h.next!=null&&
+				last!=null){
+			
+		}
 		
     }
 
